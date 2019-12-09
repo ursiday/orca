@@ -1,6 +1,0 @@
-Orca
-
-Analyze clinical data - TrialTrove and Bioscidb and public stock data and private company lists
-Python, R, Tableau Excel
-
-https://github.com/ursiday/orca
