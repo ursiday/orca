@@ -1,0 +1,2 @@
+# Jewelnet
+Decentralized trust
